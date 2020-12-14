@@ -1,1 +1,1 @@
-# brewery-beer-inventory-service
+# Brewery Beer Inventory Service
