@@ -1,5 +1,6 @@
-package com.borisperica.common.events;
+package com.borisperica.brewery.model.events;
 
+import com.borisperica.brewery.model.BeerDto;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

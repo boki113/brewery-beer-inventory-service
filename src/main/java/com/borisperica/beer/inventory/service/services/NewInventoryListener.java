@@ -1,7 +1,7 @@
 package com.borisperica.beer.inventory.service.services;
 
-import com.borisperica.common.events.BeerDto;
-import com.borisperica.common.events.NewInventoryEvent;
+import com.borisperica.brewery.model.BeerDto;
+import com.borisperica.brewery.model.events.NewInventoryEvent;
 import com.borisperica.beer.inventory.service.config.JmsConfig;
 import com.borisperica.beer.inventory.service.domain.BeerInventory;
 import com.borisperica.beer.inventory.service.repositories.BeerInventoryRepository;

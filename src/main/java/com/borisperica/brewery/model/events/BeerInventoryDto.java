@@ -1,4 +1,4 @@
-package com.borisperica.beer.inventory.service.web.model;
+package com.borisperica.brewery.model.events;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

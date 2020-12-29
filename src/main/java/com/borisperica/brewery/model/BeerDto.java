@@ -1,4 +1,4 @@
-package com.borisperica.common.events;
+package com.borisperica.brewery.model;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.AllArgsConstructor;

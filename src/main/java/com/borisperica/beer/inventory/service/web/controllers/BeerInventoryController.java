@@ -2,7 +2,7 @@ package com.borisperica.beer.inventory.service.web.controllers;
 
 import com.borisperica.beer.inventory.service.repositories.BeerInventoryRepository;
 import com.borisperica.beer.inventory.service.web.mappers.BeerInventoryMapper;
-import com.borisperica.beer.inventory.service.web.model.BeerInventoryDto;
+import com.borisperica.brewery.model.events.BeerInventoryDto;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.GetMapping;
